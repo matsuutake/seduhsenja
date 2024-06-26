@@ -12,6 +12,7 @@
   outline: none;
   border: none;
   list-style-type: none;
+  scroll-behavior: smooth;
 }
 body {
   font-family: "Poppins", sans-serif;
